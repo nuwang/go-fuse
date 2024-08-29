@@ -7,6 +7,6 @@ require (
 	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a
 )
 
-replace github.com/hanwen/go-fuse/v2 => github.com/nuwang/go-fuse/v2 v2.0.0-20240829174441-b4b2319e028f
+replace github.com/hanwen/go-fuse/v2 => github.com/nuwang/go-fuse/v2 v2.0.0-20240829175416-61bbb8e9566a
 
 go 1.17
